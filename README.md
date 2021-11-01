@@ -1,2 +1,2 @@
 # TargetProductMonitor
-A python script made for personal use to monitor for sports card restocks on target.com since they are sold out often
+A python script made for personal use to monitor for sports card resocks on target.com since they are sold out often. When a restock occurs or a product page is loaded, it will send a message through the terminal, and also through a discord webhook. Tagert doesnt offer a free eduactional api acesss product data so an in-house script is need to load refresh product page during suspected restocktimes based on patterns. Different versions have used to work with different packages and frameworks.
